@@ -40,6 +40,13 @@ panda-delivery:
   path: D:\ # change to an available path in your computer
 ```
 
+### instruction
+- clone it
+```shell
+git clone https://github.com/chen2142/panda-delivery.git
+```
+- compile and run in idea
+- access `http://localhost:<port>/<directory in static(maybe more directories here)>/<target page>` by providing correct path to replace angle brackets
 
 - [ ] *Translation for front-end is to be continued.*
 
